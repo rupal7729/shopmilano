@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Bookerly';
+    src: url('Bookerly-Bold.eot');
+    src: url('Bookerly-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Bookerly-Bold.woff2') format('woff2'),
+        url('Bookerly-Bold.woff') format('woff'),
+        url('Bookerly-Bold.ttf') format('truetype'),
+        url('Bookerly-Bold.svg#Bookerly-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bookerly';
+    src: url('Bookerly-Regular.eot');
+    src: url('Bookerly-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Bookerly-Regular.woff2') format('woff2'),
+        url('Bookerly-Regular.woff') format('woff'),
+        url('Bookerly-Regular.ttf') format('truetype'),
+        url('Bookerly-Regular.svg#Bookerly-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
